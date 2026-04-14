@@ -11,6 +11,5 @@
 <details><summary><strong> [点击展开] 赞赏支持 ~🧧</strong></summary>
   
 *还想给我打赏？脑袋被驴踢了吧*
-- **你瞅啥:** `瞅你咋地`
 
 </details> 
