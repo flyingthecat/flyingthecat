@@ -1,4 +1,5 @@
-<img src="https://github-readme-stats.vercel.app/api?username=flyingthecat&show_icons=true&theme=Default&locale=cn&hide=prs&rank_icon=github" alt="logo" align="right" width="50%" />
+<img src="https://komarev.com/ghpvc/?username=flyingthecat&label=Profile%20views&color=0e75b6&style=flat" alt="missuo" align="right" width="50%" />
+
 
 🤖 **欢迎来到我的 GitHub 仓库！** 🚀
 
